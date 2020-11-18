@@ -1,3 +1,5 @@
+Taken from: https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive/06_structured/pipelines
+
 # How to create and deploy a Kubeflow Machine Learning Pipeline (Part 1)
 See:
 https://towardsdatascience.com/how-to-create-and-deploy-a-kubeflow-machine-learning-pipeline-part-1-efea7a4b650f
